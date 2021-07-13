@@ -457,6 +457,12 @@ input, select, textarea {
 					padding-top: 100px;
 				}
 
+		@media screen and (max-width: 1920px){
+			div.contacts{
+				padding-left: 20%;
+			}
+		}
+
 		@media screen and (max-width: 1680px) {
 
 			div.contacts{
